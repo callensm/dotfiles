@@ -19,7 +19,9 @@ return {
         "typescript-language-server",
 
         -- Formatters
+        "shfmt",
         "stylua",
+        "taplo",
         "tflint",
 
         -- Utilities

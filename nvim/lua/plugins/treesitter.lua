@@ -7,6 +7,7 @@ return {
       "bash",
       "go",
       "gomod",
+      "graphql",
       "hcl",
       "javascript",
       "json",
