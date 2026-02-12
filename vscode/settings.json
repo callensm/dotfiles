@@ -24,5 +24,4 @@
   },
   "chat.disableAIFeatures": true,
   "editor.fontLigatures": true,
-  "editor.minimap.enabled": false,
 }
