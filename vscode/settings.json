@@ -24,4 +24,5 @@
   },
   "chat.disableAIFeatures": true,
   "editor.fontLigatures": true,
+  "extensions.ignoreRecommendations": true,
 }
