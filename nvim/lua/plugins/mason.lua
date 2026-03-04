@@ -19,6 +19,7 @@ return {
         "typescript-language-server",
 
         -- Formatters
+        "oxfmt",
         "shfmt",
         "stylua",
         "taplo",
