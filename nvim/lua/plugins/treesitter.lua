@@ -9,6 +9,7 @@ return {
       "gomod",
       "graphql",
       "hcl",
+      "helm",
       "javascript",
       "json",
       "lua",

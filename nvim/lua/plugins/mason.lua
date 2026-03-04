@@ -11,6 +11,7 @@ return {
         "docker-language-server",
         "gh-actions-language-server",
         "gopls",
+        "helm-ls",
         "json-lsp",
         "lua-language-server",
         "postgres-language-server",
