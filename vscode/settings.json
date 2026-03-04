@@ -25,4 +25,6 @@
   "chat.disableAIFeatures": true,
   "editor.fontLigatures": true,
   "extensions.ignoreRecommendations": true,
+  "editor.minimap.enabled": false,
+  "claudeCode.preferredLocation": "panel",
 }
