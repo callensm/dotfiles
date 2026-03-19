@@ -48,12 +48,21 @@
 # # Just for example:
 # resize-overlay-duration = 4s 200ms
 
+# theme = Catppuccin Frappe
+theme = "Catppuccin Frappe"
+
 background-opacity = 0.90
+cursor-click-to-move = false
 cursor-style = block
+cursor-style-blink = false
+shell-integration-features = no-cursor
+
 font-family = JetBrainsMono Nerd Font
 font-size = 12
+
 macos-icon = custom
 macos-custom-icon = ~/.config/ghostty/ghostty-original.icns
 macos-titlebar-proxy-icon = hidden
-shell-integration-features = no-cursor
-theme = Catppuccin Frappe
+
+tab-inherit-working-directory = false
+window-inherit-working-directory = false
