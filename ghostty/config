@@ -48,8 +48,7 @@
 # # Just for example:
 # resize-overlay-duration = 4s 200ms
 
-# theme = Catppuccin Frappe
-theme = "Catppuccin Frappe"
+theme = "Catppuccin Mocha"
 
 background-opacity = 0.90
 cursor-click-to-move = false

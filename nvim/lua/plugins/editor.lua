@@ -81,22 +81,4 @@ return {
       },
     },
   },
-
-  {
-    "Isrothy/neominimap.nvim",
-    lazy = true,
-    keys = {
-      { "<leader>m", "<cmd>Neominimap Toggle<cr>", desc = "Toggle Global Minimap" },
-    },
-    init = function()
-      -- The following options are recommended when layout == "float"
-      vim.opt.wrap = false
-      vim.opt.sidescrolloff = 36
-
-      --- Put your configuration here
-      vim.g.neominimap = {
-        auto_enable = false,
-      }
-    end,
-  },
 }
