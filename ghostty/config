@@ -48,7 +48,7 @@
 # # Just for example:
 # resize-overlay-duration = 4s 200ms
 
-theme = "Catppuccin Mocha"
+theme = "Catppuccin Macchiato"
 
 background-opacity = 0.90
 cursor-click-to-move = false
@@ -60,7 +60,6 @@ font-family = JetBrainsMono Nerd Font
 font-size = 12
 
 macos-icon = custom
-macos-custom-icon = ~/.config/ghostty/ghostty-original.icns
 macos-titlebar-proxy-icon = hidden
 
 tab-inherit-working-directory = false
